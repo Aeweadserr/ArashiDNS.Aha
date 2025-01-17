@@ -11,7 +11,7 @@ env:
   IMAGE_NAME: arashidns.aha
 
 jobs:
-  # Run tests.
+  # Run tests. 
   # See also https://docs.docker.com/docker-hub/builds/automated-testing/
   test:
     runs-on: ubuntu-latest 
